@@ -1,74 +1,32 @@
-2026-04-03 17:22:01,850 - INFO - Server launching.
-2026-04-03 17:22:12,626 - INFO - Request link: /search
-2026-04-03 17:22:12,627 - INFO - Current file path: search
-2026-04-03 17:22:12,627 - INFO - send_html_page received file: search.html, status: 200
-2026-04-03 17:22:12,653 - INFO - Request link: /static/style.css
-2026-04-03 17:22:12,654 - INFO - Current file path: static\style.css
-2026-04-03 17:22:12,655 - INFO - Looking for static file by path: d:\programs\projvscode\goitnew\web\les4_webapp\proj1\static\style.css
-2026-04-03 17:22:12,957 - INFO - Request link: /static/script.js
-2026-04-03 17:22:12,957 - INFO - Current file path: static\script.js
-2026-04-03 17:22:12,958 - INFO - Looking for static file by path: d:\programs\projvscode\goitnew\web\les4_webapp\proj1\static\script.js
-2026-04-03 17:22:14,327 - INFO - Request link: /
-2026-04-03 17:22:14,327 - INFO - Current file path: .
-2026-04-03 17:22:14,328 - INFO - send_html_page received file: index.html, status: 200
-2026-04-03 17:22:14,405 - INFO - Request link: /static/style.css
-2026-04-03 17:22:14,406 - INFO - Current file path: static\style.css
-2026-04-03 17:22:14,406 - INFO - Looking for static file by path: d:\programs\projvscode\goitnew\web\les4_webapp\proj1\static\style.css
-2026-04-03 17:22:15,161 - INFO - Request link: /search
-2026-04-03 17:22:15,161 - INFO - Current file path: search
-2026-04-03 17:22:15,162 - INFO - send_html_page received file: search.html, status: 200
-2026-04-03 17:22:15,463 - INFO - Request link: /static/style.css
-2026-04-03 17:22:15,463 - INFO - Current file path: static\style.css
-2026-04-03 17:22:15,464 - INFO - Looking for static file by path: d:\programs\projvscode\goitnew\web\les4_webapp\proj1\static\style.css
-2026-04-03 17:22:15,496 - INFO - Request link: /static/script.js
-2026-04-03 17:22:15,497 - INFO - Current file path: static\script.js
-2026-04-03 17:22:15,498 - INFO - Looking for static file by path: d:\programs\projvscode\goitnew\web\les4_webapp\proj1\static\script.js
-2026-04-03 17:24:23,061 - INFO - Request link: /
-2026-04-03 17:24:23,061 - INFO - Current file path: .
-2026-04-03 17:24:23,062 - INFO - send_html_page received file: index.html, status: 200
-2026-04-03 17:24:23,124 - INFO - Request link: /static/style.css
-2026-04-03 17:24:23,125 - INFO - Current file path: static\style.css
-2026-04-03 17:24:23,126 - INFO - Looking for static file by path: d:\programs\projvscode\goitnew\web\les4_webapp\proj1\static\style.css
-2026-04-03 17:27:40,462 - INFO - Request link: /
-2026-04-03 17:27:40,463 - INFO - Current file path: .
-2026-04-03 17:27:40,463 - INFO - send_html_page received file: index.html, status: 200
-2026-04-03 17:27:40,541 - INFO - Request link: /static/style.css
-2026-04-03 17:27:40,541 - INFO - Current file path: static\style.css
-2026-04-03 17:27:40,543 - INFO - Looking for static file by path: d:\programs\projvscode\goitnew\web\les4_webapp\proj1\static\style.css
-2026-04-03 17:27:42,339 - INFO - Request link: /search
-2026-04-03 17:27:42,339 - INFO - Current file path: search
-2026-04-03 17:27:42,340 - INFO - send_html_page received file: search.html, status: 200
-2026-04-03 17:27:42,654 - INFO - Request link: /static/style.css
-2026-04-03 17:27:42,654 - INFO - Current file path: static\style.css
-2026-04-03 17:27:42,655 - INFO - Looking for static file by path: d:\programs\projvscode\goitnew\web\les4_webapp\proj1\static\style.css
-2026-04-03 17:27:42,667 - INFO - Request link: /static/script.js
-2026-04-03 17:27:42,667 - INFO - Current file path: static\script.js
-2026-04-03 17:27:42,668 - INFO - Looking for static file by path: d:\programs\projvscode\goitnew\web\les4_webapp\proj1\static\script.js
-2026-04-03 17:27:43,777 - INFO - Request link: /
-2026-04-03 17:27:43,777 - INFO - Current file path: .
-2026-04-03 17:27:43,778 - INFO - send_html_page received file: index.html, status: 200
-2026-04-03 17:27:43,885 - INFO - Request link: /static/style.css
-2026-04-03 17:27:43,886 - INFO - Current file path: static\style.css
-2026-04-03 17:27:43,886 - INFO - Looking for static file by path: d:\programs\projvscode\goitnew\web\les4_webapp\proj1\static\style.css
-2026-04-03 17:28:08,428 - INFO - Request link: /
-2026-04-03 17:28:08,428 - INFO - Current file path: .
-2026-04-03 17:28:08,429 - INFO - send_html_page received file: index.html, status: 200
-2026-04-03 17:28:08,735 - INFO - Request link: /static/style.css
-2026-04-03 17:28:08,735 - INFO - Current file path: static\style.css
-2026-04-03 17:28:08,736 - INFO - Looking for static file by path: d:\programs\projvscode\goitnew\web\les4_webapp\proj1\static\style.css
-2026-04-03 17:28:23,710 - INFO - Request link: /search
-2026-04-03 17:28:23,710 - INFO - Current file path: search
-2026-04-03 17:28:23,711 - INFO - send_html_page received file: search.html, status: 200
-2026-04-03 17:28:23,856 - INFO - Request link: /static/style.css
-2026-04-03 17:28:23,856 - INFO - Current file path: static\style.css
-2026-04-03 17:28:23,857 - INFO - Looking for static file by path: d:\programs\projvscode\goitnew\web\les4_webapp\proj1\static\style.css
-2026-04-03 17:28:23,977 - INFO - Request link: /static/script.js
-2026-04-03 17:28:23,977 - INFO - Current file path: static\script.js
-2026-04-03 17:28:23,978 - INFO - Looking for static file by path: d:\programs\projvscode\goitnew\web\les4_webapp\proj1\static\script.js
-2026-04-03 17:28:32,920 - INFO - Request link: /
-2026-04-03 17:28:32,921 - INFO - Current file path: .
-2026-04-03 17:28:32,921 - INFO - send_html_page received file: index.html, status: 200
-2026-04-03 17:28:33,229 - INFO - Request link: /static/style.css
-2026-04-03 17:28:33,230 - INFO - Current file path: static\style.css
-2026-04-03 17:28:33,230 - INFO - Looking for static file by path: d:\programs\projvscode\goitnew\web\les4_webapp\proj1\static\style.css
-2026-04-03 17:28:36,795 - INFO - Server stopped.
+2026-04-03 18:10:40,232 - INFO - Server launching.
+2026-04-03 18:10:45,249 - INFO - Request link: /
+2026-04-03 18:10:45,249 - INFO - Current file path: .
+2026-04-03 18:10:45,250 - INFO - send_html_page received file: index.html, status: 200
+2026-04-03 18:10:45,327 - INFO - Request link: /static/style.css
+2026-04-03 18:10:45,327 - INFO - Current file path: static\style.css
+2026-04-03 18:10:45,328 - INFO - Looking for static file by path: d:\programs\projvscode\goitnew\web\les4_webapp\proj1\static\style.css
+2026-04-03 18:10:48,301 - INFO - Request link: /search
+2026-04-03 18:10:48,302 - INFO - Current file path: search
+2026-04-03 18:10:48,302 - INFO - send_html_page received file: search.html, status: 200
+2026-04-03 18:10:48,607 - INFO - Request link: /static/style.css
+2026-04-03 18:10:48,607 - INFO - Current file path: static\style.css
+2026-04-03 18:10:48,608 - INFO - Looking for static file by path: d:\programs\projvscode\goitnew\web\les4_webapp\proj1\static\style.css
+2026-04-03 18:10:48,639 - INFO - Request link: /static/script.js
+2026-04-03 18:10:48,639 - INFO - Current file path: static\script.js
+2026-04-03 18:10:48,640 - INFO - Looking for static file by path: d:\programs\projvscode\goitnew\web\les4_webapp\proj1\static\script.js
+2026-04-03 18:10:57,961 - INFO - Request link: /
+2026-04-03 18:10:57,961 - INFO - Current file path: .
+2026-04-03 18:10:57,962 - INFO - send_html_page received file: index.html, status: 200
+2026-04-03 18:10:58,070 - INFO - Request link: /static/style.css
+2026-04-03 18:10:58,070 - INFO - Current file path: static\style.css
+2026-04-03 18:10:58,072 - INFO - Looking for static file by path: d:\programs\projvscode\goitnew\web\les4_webapp\proj1\static\style.css
+2026-04-03 18:10:58,809 - INFO - Request link: /search
+2026-04-03 18:10:58,810 - INFO - Current file path: search
+2026-04-03 18:10:58,811 - INFO - send_html_page received file: search.html, status: 200
+2026-04-03 18:10:59,114 - INFO - Request link: /static/style.css
+2026-04-03 18:10:59,114 - INFO - Current file path: static\style.css
+2026-04-03 18:10:59,116 - INFO - Looking for static file by path: d:\programs\projvscode\goitnew\web\les4_webapp\proj1\static\style.css
+2026-04-03 18:10:59,146 - INFO - Request link: /static/script.js
+2026-04-03 18:10:59,146 - INFO - Current file path: static\script.js
+2026-04-03 18:10:59,147 - INFO - Looking for static file by path: d:\programs\projvscode\goitnew\web\les4_webapp\proj1\static\script.js
+2026-04-03 18:11:02,199 - INFO - Server stopped.
